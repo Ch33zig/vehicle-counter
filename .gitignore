@@ -1,6 +1,4 @@
-*.mp4
-*.mkv
-*.mov
 *.avi
-*.weights
+*.nix
 __pycache__/**
+yolo-coco/**
